@@ -15,6 +15,9 @@
   ],
   "author": "Zhitomir Oreshenski",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zhnedyalkow/-zhnedyalkow-tsconfig.git"
