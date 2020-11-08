@@ -1,5 +1,5 @@
 {
-  "name": "@zhitomir-oreshenski-mm/zhnedyalkow-tsconfig",
+  "name": "zhnedyalkow-tsconfig",
   "version": "1.0.1",
   "description": "Quickly create a tsconfig.json",
   "main": "src/index.js",
@@ -15,12 +15,9 @@
   ],
   "author": "Zhitomir Oreshenski",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/zhitomir-oreshenski-mm"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig.git"
+    "url": "git+https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig.git"
   },
   "bugs": {
     "url": "https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig/issues"
