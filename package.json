@@ -1,0 +1,29 @@
+{
+  "name": "zhnedyalkow-tsconfig",
+  "version": "1.0.1",
+  "description": "Quickly create a tsconfig.json",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "tsconfig",
+    "tsconfig.json"
+  ],
+  "author": "Zhitomir Oreshenski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig/issues"
+  },
+  "homepage": "https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig/#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
