@@ -16,7 +16,7 @@
   "author": "Zhitomir Oreshenski",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
