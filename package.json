@@ -1,5 +1,5 @@
 {
-  "name": "zhnedyalkow-tsconfig",
+  "name": "@zhitomir-oreshenski/zhnedyalkow-tsconfig",
   "version": "1.0.0",
   "description": "Quickly create a tsconfig.json",
   "main": "src/index.js",
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@zhitomir-oreshenski-mm"
   },
   "bugs": {
     "url": "https://github.com/zhitomir-oreshenski-mm/zhnedyalkow-tsconfig/issues"
