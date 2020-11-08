@@ -1,5 +1,5 @@
 {
-  "name": "@zhnedyalkow/zhnedyalkow-tsconfig",
+  "name": "@zhitomir-oreshenski-mm/zhnedyalkow-tsconfig",
   "version": "1.0.1",
   "description": "Quickly create a tsconfig.json",
   "main": "src/index.js",
